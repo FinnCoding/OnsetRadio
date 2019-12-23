@@ -1,0 +1,14 @@
+{
+	"author": "FinnCoding",
+	"version": "1.0",
+	"server_scripts": [
+	],
+	"client_scripts": [
+		"radio.lua"
+	],
+	"files": [
+		"track1.mp3",
+		"track2.mp3",
+		"track3.mp3"
+	]
+}
